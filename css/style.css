@@ -303,7 +303,8 @@ button {
 /* header section end */
 
 .footer-fixed {
-    background-color: #d78373;
+    background-image: url(../images/header-bg.png);
+
     bottom: 0;
     left: 0;
     padding: 10px 0;
